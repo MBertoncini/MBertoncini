@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MBertoncini
+- 👋 Hi, I’m Michele
 - 👀 I’m interested in Natural Science and Bioinformatics
 - 🌱 I’m currently learning Ant Taxonomy, Python, Machine Learning
 - 📫 How to reach me: send an email at michele.bertoncini@gmail.com
